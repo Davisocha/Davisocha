@@ -1,5 +1,5 @@
 
-## Oi Sou o Davi Socha, sou Estudante do Senac Itaquera cursando Técnico em Informatica.
+## Sou Estudante do Senac Itaquera, e estou cursando Técnico em Informatica.
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davisocha&show_icons=true&theme=radical)-->
 Tecnologias que uso no meu dia a dia:
